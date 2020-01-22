@@ -1,0 +1,2 @@
+用户名                  密码                    是否是VIP     地址
+user1                   password1               否            
